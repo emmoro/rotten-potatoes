@@ -52,7 +52,7 @@ spec:
     spec:
       containers:
         - name: web
-          image: elton/rotten-potatoes:v1
+          image: emmoro/rotten-potatoes:v1Se
           ports:
             - containerPort: 5000
           env:
